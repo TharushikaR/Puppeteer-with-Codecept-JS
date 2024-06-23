@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-with-codecept-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.6.4",
+    "prettier": "^3.3.2",
+    "puppeteer": "^22.12.0"
+  }
+}
